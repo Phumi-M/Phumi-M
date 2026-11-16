@@ -58,7 +58,6 @@ I believe in learning by building, solving problems, and continuously improving 
 **AI & Cloud**
 
 ![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -69,15 +68,15 @@ A luxury fashion e-commerce application featuring product collections, authentic
 
 **Technologies:** React, TypeScript, Python, MySQL
 
-### Syniq AI
+### Syniq AI(Project in progress)
 An AI-powered assistant exploring conversational AI, intelligent workflows, and personalized productivity.
 
-**Technologies:** React, TypeScript, Node.js, MongoDB, LLMs
+**Technologies:** RRAG, LLMs,react js, TypeScript, Node.js, OpenAI
 
-### InternPath
+### InternPath(Project in progress)
 An AI-powered career platform designed to help graduates discover opportunities and navigate their career journeys.
 
-**Technologies:** Python, Django, AI, PostgreSQL
+**Technologies:** Python, Django, react js AI
 
 ## 📊 GitHub Statistics
 
